@@ -1,6 +1,6 @@
 # mikaelfilo-timeinalbania Project
-Analog clock 
+Analog clock 🕰
 
-What time is it in Albania? 🕰
+What time is it in Albania? 
 
 Check online at: https://mikaelfilo-timeinalbania.netlify.app/
